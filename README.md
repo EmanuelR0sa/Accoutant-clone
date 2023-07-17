@@ -1,1 +1,1 @@
-#SMART ACCOUNTANT - accountantonline clone 
+SMART ACCOUNTANT - accountantonline clone 
